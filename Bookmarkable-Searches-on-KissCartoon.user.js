@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name		KissCartoon Search for Bookmarks
 // @version		1.0
-// @downloadURL	https://github.com/svArtist/blargh.user.js
+// @downloadURL	https://github.com/svArtist/Bookmarkable-Searches-on-KissCartoon/raw/master/Bookmarkable-Searches-on-KissCartoon.user.js
 // @namespace	KissCartoon
 // @author		Benjamin Philipp <benjamin_philipp [at - please don't spam] gmx.de>
 // @description	For Bookmarkable Searches on KissCartoon
